@@ -20,8 +20,6 @@ class PageController extends AbstractController
      */
     public function index()
     {
-        return $this->render('pages/games.html.twig', [
-            'controller_name' => 'GamesController',
-        ]);
+        return $this->render('page/games.html.twig');
     }
 }
