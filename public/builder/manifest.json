@@ -1,0 +1,5 @@
+{
+  "builder/css/app.css": "/builder/css/app.css",
+  "builder/js/app.js": "/builder/js/app.js",
+  "builder/runtime.js": "/builder/runtime.js"
+}
