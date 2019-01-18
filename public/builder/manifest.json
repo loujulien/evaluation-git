@@ -1,5 +1,5 @@
 {
-  "builder/css/app.css": "/builder/css/app.css",
-  "builder/js/app.js": "/builder/js/app.js",
-  "builder/runtime.js": "/builder/runtime.js"
+  "builder/css/app.css": "http://localhost:8080/builder/css/app.css",
+  "builder/js/app.js": "http://localhost:8080/builder/js/app.js",
+  "builder/runtime.js": "http://localhost:8080/builder/runtime.js"
 }

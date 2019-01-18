@@ -2,16 +2,16 @@
   "entrypoints": {
     "js/app": {
       "js": [
-        "/builder/runtime.js",
-        "/builder/js/app.js"
+        "http://localhost:8080/builder/runtime.js",
+        "http://localhost:8080/builder/js/app.js"
       ]
     },
     "css/app": {
       "js": [
-        "/builder/runtime.js"
+        "http://localhost:8080/builder/runtime.js"
       ],
       "css": [
-        "/builder/css/app.css"
+        "http://localhost:8080/builder/css/app.css"
       ]
     }
   }
